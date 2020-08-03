@@ -19,7 +19,7 @@
 ## 前端项目启动
 
 ```javascript
-1. cd client
+1. cd myClient
 2. yarn 
 3. yarn serve
 ```

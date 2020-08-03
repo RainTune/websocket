@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+body,html{
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6,p{
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+ul,li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.text_center{
+  text-align: center;
+}
+.text_left{
+  text-align: left;
+}
+.text_right{
+  text-align: right;
+}
+.el-message{
+  min-width: 200px;
+}
+.el-textarea__inner{
+  border: 1px solid transparent !important;
+}
+.clear_fix::after{
+  content: '';
+  display: block;
+  height: 0;
+  clear: both;
+}
