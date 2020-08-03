@@ -2,7 +2,7 @@
 基于socket.io实现实时通信。
 
 ## 介绍
-- 项目是前端使用vue全家桶，以及socket.io-client实现实时通信技术，以及使用v-emoji-picker支持表情包。
+- 项目是前端使用vue全家桶，以及vue-socket.io实现实时通信技术，以及使用v-emoji-picker支持表情包。
 
 - 后台使用node.js, express框架, socket.io, 使用mongodb来存储数据。
 
